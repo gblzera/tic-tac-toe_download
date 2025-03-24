@@ -1,0 +1,16 @@
+{
+  "name": "tic-tac-toe-download",
+  "version": "1.0.0",
+  "description": "O **Jogo da Velha** (ou Tic-Tac-Toe) é um jogo clássico onde dois jogadores tentam formar uma linha de 3 símbolos (X ou O) em uma grade 3x3. Neste projeto, você pode jogar contra um amigo ou contra uma IA simples que faz jogadas aleatórias.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^35.0.3"
+  }
+}
