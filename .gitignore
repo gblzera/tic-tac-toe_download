@@ -1,7 +1,7 @@
 /node_modules
-/dist
+/dist/jogo-da-velha-win32-x64/*
+!/dist/jogo-da-velha-win32-x64/jogo-da-velha.exe
 /.vscode
 /.idea
 *.log
-*.exe
 *.zip
